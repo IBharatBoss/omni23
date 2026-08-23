@@ -1,0 +1,25 @@
+{
+  "name": "OmniTools - Zero-Server Browser Swiss Knife",
+  "short_name": "OmniTools",
+  "description": "Convert, compress, and edit Images, PDFs & Vectors directly in your browser with instant WebAssembly speed. Zero cloud uploads.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#D4D3CD",
+  "theme_color": "#176B74",
+  "icons": [
+    {
+      "src": "./logo.webp",
+      "type": "image/webp",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./logo.webp",
+      "type": "image/webp",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
